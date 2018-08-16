@@ -36,7 +36,7 @@ pnorm(84, mean = 72, sd = 15.2, lower.tail = FALSE)
 # Criamos um histograma para mostrar a distribuição dos números gerados.
 hist(rnorm(1000, mean = 3, sd = 0.25))
 
-
+?read
 
 
 
